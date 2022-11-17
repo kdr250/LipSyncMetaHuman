@@ -1,3 +1,7 @@
+Content/MetaHumans/BerniceSecond/Face/BerniceSecond_FaceMesh.uasset filter=lfs diff=lfs merge=lfs -text
+Content/MetaHumans/Koda/Face/Koda_FaceMesh.uasset filter=lfs diff=lfs merge=lfs -text
+Content/MetaHumans/Yuri/Face/Yuri_FaceMesh.uasset filter=lfs diff=lfs merge=lfs -text
+Plugins/OVRLipSync/ThirdParty/Lib/Mac/libOVRLipSync.dylib filter=lfs diff=lfs merge=lfs -text
+Content/MetaHumans/Common/Materials/Slacks/btm_slacks_N.uasset filter=lfs diff=lfs merge=lfs -text
 Content/MetaHumans/Bernice/Face/Bernice_FaceMesh.uasset filter=lfs diff=lfs merge=lfs -text
 Content/MetaHumans/Common/Face/Face_Archetype.uasset filter=lfs diff=lfs merge=lfs -text
-Content/MetaHumans/Common/Materials/Slacks/btm_slacks_N.uasset filter=lfs diff=lfs merge=lfs -text
